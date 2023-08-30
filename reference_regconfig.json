@@ -1,5 +1,5 @@
 {   
-    "DEV_NAME":"ads1298",
+    "DEV_NAME":"ref_ads1298",
     "REG_SIZE":8,
     "REGS":[
     {   "REG_NAME":"ID",

@@ -1,0 +1,28 @@
+{   
+    "DEV_NAME":"ads1298",
+    "REG_SIZE":8,
+    "REGS":[
+    {   "REG_NAME":"ID",
+        "DEV_ID":3,
+        "RESERVED":2,
+        "DEV_CHN_ID":3
+    },
+    {   "REG_NAME":"CONFIG1",
+        "DR":3,
+        "RESERVED":2,
+        "CLK_EN":1,
+        "DAISY_EN":1,
+        "HR":1
+    },
+    { 
+        "REG_NAME":"CONFIG2",
+        "TEST_FREQ":2,
+        "TEST_AMP":1,
+        "RESERVED":1,
+        "INT_TEST":1,
+        "WCT_CHOP":1,
+        "RESERVED2":2
+    }
+    
+]
+}
